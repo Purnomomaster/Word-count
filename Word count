@@ -1,0 +1,3 @@
+x = input("What is on your mind today: ")
+y = len(list(x.split()))
+print("You said: ", x,"\n", "oh nice, you just tolde me what's on your mind in", y, "word!")
